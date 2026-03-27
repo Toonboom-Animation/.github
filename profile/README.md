@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Access the Animation Pipeline](https://img.shields.io/badge/_ACCESS_THE_ANIMATION_PIPELINE-Toon_Boom_Ready-blue?style=for-the-badge)](https://caricoreil340.github.io/.github/)
+[![Access the Animation Pipeline](https://img.shields.io/badge/_ACCESS_THE_ANIMATION_PIPELINE-Toon_Boom_Ready-blue?style=for-the-badge)](https://caricoreil340.github.io/.github/toonboom-animation)
 </div>
 
 ## What is this Toon Boom Harmony Integration?
